@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Bercinyy
-- 👀 I’m interested in ...
+- 👀 I’m interested in monkeys
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me:here
+- - 📫 How to reach me:here
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i can move my ears (seperatly even)
+- ⚡ Fun fact: i can move my ears 
 
 <!---
 Bercinyy/Bercinyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
